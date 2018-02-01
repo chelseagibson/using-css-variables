@@ -13,7 +13,7 @@ html {
   max-width: 24em;
 
   border: 3px solid red var(--color-primary);
-  border-radius: 4px var(--border-radius);
+  border-radius: var(--border-radius);
 }
 
 .card-title {
